@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="head">#000000</color>
+    <color name="head_items">#EAE6E6</color>
+    <color name="rectangle_box">#434141</color>
+    <color name="head_items_insider">#ffffff</color>
+    <color name="custom_color_recyclerView">#1F1D1D</color>
+    <color name="navigation_bar_color">#000000</color>
+    <color name="head_text">#EAE6E6</color>
+</resources>

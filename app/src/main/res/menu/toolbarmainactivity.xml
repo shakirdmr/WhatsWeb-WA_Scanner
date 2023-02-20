@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Refresh Page"
+        android:id="@+id/refresh"
+        android:icon="@drawable/baseline_refresh_24"
+        app:showAsAction="always"/>
+
+
+    <item android:title="Keyboard"
+        android:id="@+id/keyboard"
+        android:icon="@drawable/baseline_keyboard_24"
+        app:showAsAction="always"/>
+
+    <item android:title="Downloads"
+        android:id="@+id/downloads"
+        android:icon="@drawable/baseline_file_download_done_24"
+        app:showAsAction="always"/>
+
+    <item android:title="Theme"
+        android:id="@+id/theme"
+        android:icon="@drawable/baseline_brightness_6_24"
+        app:showAsAction="never"/>
+
+
+    <item android:title="Howto Use"
+        android:id="@+id/howToUse"
+        android:icon="@drawable/baseline_info_24"
+        app:showAsAction="never"/>
+
+
+
+    <item android:title="More"
+        android:id="@+id/more"
+        android:icon="@drawable/baseline_more_24"
+        app:showAsAction="never"/>
+
+</menu>
